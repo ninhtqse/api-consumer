@@ -17,11 +17,11 @@
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "license": "Apache",
     "authors": [
         {
             "name": "Esben Petersen",
             "email": "esbenspetersen@gmail.com"
         }
-    ]
+    ],
+    "license": "MIT"
 }
