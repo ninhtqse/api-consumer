@@ -3,7 +3,7 @@
 namespace Ninhtqse\ApiConsumer\Provider;
 
 use Illuminate\Support\ServiceProvider as BaseProvider;
-use Phuongtt\ApiConsumer\Router;
+use Ninhtqse\ApiConsumer\Router;
 
 class LaravelServiceProvider extends BaseProvider {
 
