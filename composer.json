@@ -1,5 +1,6 @@
 {
     "name": "ninhtqse/api-consumer",
+    "description": "A short description of what your package does",
     "require": {
         "laravel/framework": ">=5.2"
     },
